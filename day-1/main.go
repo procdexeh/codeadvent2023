@@ -128,6 +128,7 @@ func part_two() {
 				}
 			}
 		}
+
 		fmt.Printf("Current Numbers: %v\n", currentNumbers)
 		var firstDigit, lastDigit int
 		if len(currentNumbers) == 1 {
